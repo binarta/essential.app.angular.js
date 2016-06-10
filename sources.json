@@ -1,0 +1,5 @@
+{
+  "default": {
+    "essential.app": "bower_components/binarta.essential.app.angular/src/essential.app.js"
+  }
+}
