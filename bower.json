@@ -24,7 +24,8 @@
     "binarta.application.brand.angular": "0.*.*",
     "binarta.theme.angular": "0.*.*",
     "binarta.blocks.angular": "0.*.*",
-    "binarta.share.angular": "0.*.*"
+    "binarta.share.angular": "0.*.*",
+    "binarta.maps.angular": "0.*.*"
   },
   "ignore": [
     "**/.*",

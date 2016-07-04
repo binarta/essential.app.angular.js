@@ -21,5 +21,7 @@ angular.module('essential.app', [
     'application.brand',
     'bin.theme',
     'bin.blocks',
-    'bin.share'
+    'bin.share',
+    'bin.maps',
+    'bin.maps.google'
 ]);
