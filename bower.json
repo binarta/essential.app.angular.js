@@ -5,7 +5,7 @@
     "./sources.json"
   ],
   "dependencies": {
-    "binarta.basic.app.angular": "0.*.*",
+    "binarta.basic.app.angular": "git@github.com:binarta/basic.app.angular.js#cfi",
     "binarta.ui.bootstrap.ex.angular": "0.*.*",
     "binarta.angularticsx.ga.angular": "0.*.*",
     "binarta.seo.angular": "1.*.*",
@@ -16,7 +16,7 @@
     "binarta.image.carousel.angular": "1.*.*",
     "binarta.media.angular": "v0.*.*",
     "binarta.contact.us.angular": "0.*.*",
-    "binarta.catalog.angular": "1.*.*",
+    "binarta.catalog.angular": "git@github.com:binarta/catalog.angular.js#cfi",
     "binarta.search.angular": "0.*.*",
     "binarta.blog.angular": "1.*.*",
     "binarta.application.trial.angular": "0.*.*",
