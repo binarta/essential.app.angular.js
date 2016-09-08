@@ -19,7 +19,7 @@
     "binarta.catalog.angular": "2.*.*",
     "binarta.search.angular": "0.*.*",
     "binarta.blog.angular": "1.*.*",
-    "binarta.application.trial.angular": "0.*.*",
+    "binarta.application.trial.angular": "1.*.*",
     "binarta.application.pages.angular": "0.*.*",
     "binarta.application.brand.angular": "0.*.*",
     "binarta.theme.angular": "0.*.*",
