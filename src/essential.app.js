@@ -1,6 +1,5 @@
 angular.module('essential.app', [
     'basic.app',
-    'ui.bootstrap.ex',
     'angularticsx.ga',
     'seo',
     'intercom',

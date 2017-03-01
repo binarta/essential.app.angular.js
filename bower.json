@@ -6,7 +6,6 @@
   ],
   "dependencies": {
     "binarta.basic.app.angular": "0.*.*",
-    "binarta.ui.bootstrap.ex.angular": "0.*.*",
     "binarta.angularticsx.ga.angular": "0.*.*",
     "binarta.seo.angular": "1.*.*",
     "binarta.intercom.angular": "0.*.*",
