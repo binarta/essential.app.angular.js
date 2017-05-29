@@ -22,5 +22,7 @@ angular.module('essential.app', [
     'bin.blocks',
     'bin.share',
     'bin.maps',
-    'bin.maps.google'
+    'bin.maps.google',
+    'opening.hours',
+    'opening.hours.templates'
 ]);
