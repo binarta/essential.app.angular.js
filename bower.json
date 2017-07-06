@@ -1,31 +1,11 @@
 {
   "name": "binarta.essential.app.angular",
-  "main": [
-    "./src/essential.app.js",
-    "./sources.json"
-  ],
+  "main": "./src/essential.app.js",
   "dependencies": {
-    "binarta.basic.app.angular": "0.*.*",
-    "binarta.angularticsx.ga.angular": "0.*.*",
-    "binarta.seo.angular": "1.*.*",
-    "binarta.intercom.angular": "0.*.*",
-    "binarta.inspectlet.angular": "0.*.*",
-    "binarta.images.angular": "0.*.*",
-    "binarta.imagex.tinymce": "1.*.*",
-    "binarta.image.carousel.angular": "1.*.*",
+    "binarta.start.app.angular": "0.*.*",
     "binarta.media.angular": "v0.*.*",
-    "binarta.contact.us.angular": "0.*.*",
-    "binarta.catalog.angular": "2.*.*",
-    "binarta.search.angular": "0.*.*",
     "binarta.blog.angular": "1.*.*",
-    "binarta.application.trial.angular": "1.*.*",
-    "binarta.application.pages.angular": "0.*.*",
-    "binarta.application.brand.angular": "0.*.*",
-    "binarta.theme.angular": "0.*.*",
-    "binarta.blocks.angular": "0.*.*",
-    "binarta.share.angular": "0.*.*",
-    "binarta.maps.angular": "0.*.*",
-    "binarta.opening.hours.angular": "0.*.*"
+    "binarta.blocks.angular": "0.*.*"
   },
   "ignore": [
     "**/.*",
