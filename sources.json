@@ -1,5 +1,8 @@
 {
   "default": {
     "essential.app": "bower_components/binarta.essential.app.angular/src/essential.app.js"
+  },
+  "blog":{
+    "binarta-gateways": "bower_components/binarta.essential.app.angular/src/binarta-gateways.js"
   }
 }
